@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58414460-76e2-4075-bb21-2c5409a3b9fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Patika-Java101.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NotOrtalamasiHesaplayanProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,11 +29,19 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.KDVTutariHesaplayanProgram">
+    <configuration name="KDVTutariHesaplayanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="KDVTutariHesaplayanProgram" />
+      <module name="Patika-Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NotOrtalamasiHesaplayanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NotOrtalamasiHesaplayanProgram" />
       <module name="Patika-Java101" />
@@ -48,6 +51,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KDVTutariHesaplayanProgram" />
         <item itemvalue="Application.NotOrtalamasiHesaplayanProgram" />
       </list>
     </recent_temporary>
@@ -62,7 +66,7 @@
       <updated>1633886846178</updated>
       <workItem from="1633886848575" duration="2917000" />
       <workItem from="1633972382531" duration="6101000" />
-      <workItem from="1634486944736" duration="4424000" />
+      <workItem from="1634486944736" duration="5288000" />
     </task>
     <servers />
   </component>

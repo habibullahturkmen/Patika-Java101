@@ -32,7 +32,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.VucutKitleIndeksiHesaplama">
+  <component name="RunManager" selected="Application.ManavKasaProgrami">
     <configuration name="DaireAlaniVeCevresi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DaireAlaniVeCevresi" />
       <module name="Patika-Java101" />
@@ -47,8 +47,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KDVTutariHesaplayanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KDVTutariHesaplayanProgram" />
+    <configuration name="ManavKasaProgrami" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ManavKasaProgrami" />
       <module name="Patika-Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,11 +70,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ManavKasaProgrami" />
         <item itemvalue="Application.VucutKitleIndeksiHesaplama" />
         <item itemvalue="Application.DaireAlaniVeCevresi" />
         <item itemvalue="Application.Taksimetre" />
         <item itemvalue="Application.Hypotenuse" />
-        <item itemvalue="Application.KDVTutariHesaplayanProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -88,7 +88,7 @@
       <updated>1633886846178</updated>
       <workItem from="1633886848575" duration="2917000" />
       <workItem from="1633972382531" duration="6101000" />
-      <workItem from="1634486944736" duration="6743000" />
+      <workItem from="1634486944736" duration="7050000" />
     </task>
     <servers />
   </component>

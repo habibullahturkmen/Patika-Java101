@@ -32,7 +32,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.DaireAlaniVeCevresi">
+  <component name="RunManager" selected="Application.VucutKitleIndeksiHesaplama">
     <configuration name="DaireAlaniVeCevresi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DaireAlaniVeCevresi" />
       <module name="Patika-Java101" />
@@ -54,13 +54,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotOrtalamasiHesaplayanProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NotOrtalamasiHesaplayanProgram" />
-      <module name="Patika-Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Taksimetre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Taksimetre" />
       <module name="Patika-Java101" />
@@ -68,13 +61,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VucutKitleIndeksiHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VucutKitleIndeksiHesaplama" />
+      <module name="Patika-Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VucutKitleIndeksiHesaplama" />
         <item itemvalue="Application.DaireAlaniVeCevresi" />
         <item itemvalue="Application.Taksimetre" />
         <item itemvalue="Application.Hypotenuse" />
         <item itemvalue="Application.KDVTutariHesaplayanProgram" />
-        <item itemvalue="Application.NotOrtalamasiHesaplayanProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -88,7 +88,7 @@
       <updated>1633886846178</updated>
       <workItem from="1633886848575" duration="2917000" />
       <workItem from="1633972382531" duration="6101000" />
-      <workItem from="1634486944736" duration="6405000" />
+      <workItem from="1634486944736" duration="6743000" />
     </task>
     <servers />
   </component>

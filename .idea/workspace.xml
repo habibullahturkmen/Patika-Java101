@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="58414460-76e2-4075-bb21-2c5409a3b9fd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Patika-Java101/ManavKasaProgrami.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Patika-Java101/ManavKasaProgrami.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,14 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.JavaDatatypes">
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
+      <module name="Patika-Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DaireAlaniVeCevresi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DaireAlaniVeCevresi" />
       <module name="Patika-Java101" />
@@ -57,13 +63,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Taksimetre" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Taksimetre" />
-      <module name="Patika-Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="VucutKitleIndeksiHesaplama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VucutKitleIndeksiHesaplama" />
       <module name="Patika-Java101" />
@@ -73,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.JavaDatatypes" />
         <item itemvalue="Application.ManavKasaProgrami" />
         <item itemvalue="Application.VucutKitleIndeksiHesaplama" />
         <item itemvalue="Application.DaireAlaniVeCevresi" />
-        <item itemvalue="Application.Taksimetre" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +90,8 @@
       <updated>1633886846178</updated>
       <workItem from="1633886848575" duration="2917000" />
       <workItem from="1633972382531" duration="6101000" />
-      <workItem from="1634486944736" duration="9090000" />
+      <workItem from="1634486944736" duration="9789000" />
+      <workItem from="1635437145995" duration="400000" />
     </task>
     <servers />
   </component>

@@ -34,16 +34,16 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.WeatherApp">
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Calculator" />
+  <component name="RunManager" selected="Application.AscendingNumbers">
+    <configuration name="AscendingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AscendingNumbers" />
       <module name="Patika-Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaDatatypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JavaDatatypes" />
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Calculator" />
       <module name="Patika-Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AscendingNumbers" />
         <item itemvalue="Application.WeatherApp" />
         <item itemvalue="Application.PassingAClass" />
         <item itemvalue="Application.UserLogin" />
         <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.JavaDatatypes" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +91,7 @@
       <workItem from="1633886848575" duration="2917000" />
       <workItem from="1633972382531" duration="6101000" />
       <workItem from="1634486944736" duration="9789000" />
-      <workItem from="1635437145995" duration="3571000" />
+      <workItem from="1635437145995" duration="4711000" />
     </task>
     <servers />
   </component>

@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="58414460-76e2-4075-bb21-2c5409a3b9fd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Patika-Java101/AscendingNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Patika-Java101/AscendingNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AscendingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AscendingNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,9 +34,16 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.HoroscopeFinder">
+  <component name="RunManager" selected="Application.FlightTicketPriceCounter">
     <configuration name="AscendingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AscendingNumbers" />
+      <module name="Patika-Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightTicketPriceCounter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FlightTicketPriceCounter" />
       <module name="Patika-Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,13 +63,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UserLogin" />
-      <module name="Patika-Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WeatherApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WeatherApp" />
       <module name="Patika-Java101" />
@@ -74,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FlightTicketPriceCounter" />
         <item itemvalue="Application.HoroscopeFinder" />
         <item itemvalue="Application.AscendingNumbers" />
         <item itemvalue="Application.WeatherApp" />
         <item itemvalue="Application.PassingAClass" />
-        <item itemvalue="Application.UserLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +91,8 @@
       <workItem from="1633886848575" duration="2917000" />
       <workItem from="1633972382531" duration="6101000" />
       <workItem from="1634486944736" duration="9789000" />
-      <workItem from="1635437145995" duration="7273000" />
+      <workItem from="1635437145995" duration="15521000" />
+      <workItem from="1636039973446" duration="1612000" />
     </task>
     <servers />
   </component>

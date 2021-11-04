@@ -34,7 +34,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.FlightTicketPriceCounter">
+  <component name="RunManager" selected="Application.ZodiacSign">
     <configuration name="AscendingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AscendingNumbers" />
       <module name="Patika-Java101" />
@@ -56,13 +56,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PassingAClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PassingAClass" />
-      <module name="Patika-Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WeatherApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="WeatherApp" />
       <module name="Patika-Java101" />
@@ -70,13 +63,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZodiacSign" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ZodiacSign" />
+      <module name="Patika-Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZodiacSign" />
         <item itemvalue="Application.FlightTicketPriceCounter" />
         <item itemvalue="Application.HoroscopeFinder" />
         <item itemvalue="Application.AscendingNumbers" />
         <item itemvalue="Application.WeatherApp" />
-        <item itemvalue="Application.PassingAClass" />
       </list>
     </recent_temporary>
   </component>
@@ -92,7 +92,7 @@
       <workItem from="1633972382531" duration="6101000" />
       <workItem from="1634486944736" duration="9789000" />
       <workItem from="1635437145995" duration="15521000" />
-      <workItem from="1636039973446" duration="1612000" />
+      <workItem from="1636039973446" duration="2228000" />
     </task>
     <servers />
   </component>

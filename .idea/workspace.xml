@@ -33,7 +33,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.ATM">
+  <component name="RunManager" selected="Application.EBOB__EKOK">
     <configuration name="ATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ATM" />
       <module name="Patika-Java101" />
@@ -48,15 +48,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HarmonicNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HarmonicNumbers" />
+    <configuration name="EBOB__EKOK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EBOB__EKOK" />
       <module name="Patika-Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumbersAndPowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumbersAndPowers" />
+    <configuration name="HarmonicNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HarmonicNumbers" />
       <module name="Patika-Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EBOB__EKOK" />
         <item itemvalue="Application.ATM" />
         <item itemvalue="Application.Stars" />
         <item itemvalue="Application.HarmonicNumbers" />
         <item itemvalue="Application.ArmstrongNumber" />
-        <item itemvalue="Application.NumbersAndPowers" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +91,7 @@
       <workItem from="1633972382531" duration="6101000" />
       <workItem from="1634486944736" duration="9789000" />
       <workItem from="1635437145995" duration="15521000" />
-      <workItem from="1636039973446" duration="8323000" />
+      <workItem from="1636039973446" duration="8800000" />
     </task>
     <servers />
   </component>

@@ -34,7 +34,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.HarmonicNumbers">
+  <component name="RunManager" selected="Application.Stars">
     <configuration name="ArmstrongNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArmstrongNumber" />
       <module name="Patika-Java101" />
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Powers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Powers" />
+    <configuration name="Stars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stars" />
       <module name="Patika-Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,11 +72,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Stars" />
         <item itemvalue="Application.HarmonicNumbers" />
         <item itemvalue="Application.ArmstrongNumber" />
         <item itemvalue="Application.NumbersAndPowers" />
         <item itemvalue="Application.Combination" />
-        <item itemvalue="Application.Powers" />
       </list>
     </recent_temporary>
   </component>
@@ -92,7 +92,7 @@
       <workItem from="1633972382531" duration="6101000" />
       <workItem from="1634486944736" duration="9789000" />
       <workItem from="1635437145995" duration="15521000" />
-      <workItem from="1636039973446" duration="7616000" />
+      <workItem from="1636039973446" duration="7983000" />
     </task>
     <servers />
   </component>

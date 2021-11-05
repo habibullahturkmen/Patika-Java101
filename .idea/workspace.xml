@@ -33,16 +33,16 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.PrimeNumbers">
-    <configuration name="ATM" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ATM" />
+  <component name="RunManager" selected="Application.FibonacciNumbers">
+    <configuration name="EBOB__EKOK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EBOB__EKOK" />
       <module name="Patika-Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EBOB__EKOK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EBOB__EKOK" />
+    <configuration name="FibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciNumbers" />
       <module name="Patika-Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,11 +71,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciNumbers" />
         <item itemvalue="Application.PrimeNumbers" />
         <item itemvalue="Application.FlippedStar" />
         <item itemvalue="Application.PerfectNumber" />
         <item itemvalue="Application.EBOB__EKOK" />
-        <item itemvalue="Application.ATM" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +91,7 @@
       <workItem from="1633972382531" duration="6101000" />
       <workItem from="1634486944736" duration="9789000" />
       <workItem from="1635437145995" duration="15521000" />
-      <workItem from="1636039973446" duration="9618000" />
+      <workItem from="1636039973446" duration="10011000" />
     </task>
     <servers />
   </component>

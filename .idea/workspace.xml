@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58414460-76e2-4075-bb21-2c5409a3b9fd" name="Changes" comment="" />
+    <list default="true" id="58414460-76e2-4075-bb21-2c5409a3b9fd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,14 +35,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.FibonacciNumbers">
-    <configuration name="EBOB__EKOK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="EBOB__EKOK" />
-      <module name="Patika-Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PalindromeNumber">
     <configuration name="FibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FibonacciNumbers" />
       <module name="Patika-Java101" />
@@ -48,15 +43,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlippedStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FlippedStar" />
-      <module name="Patika-Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PerfectNumber" />
+    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeNumber" />
       <module name="Patika-Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,13 +57,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestThread" />
+      <module name="Patika-Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="temp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="temp" />
+      <module name="Patika-Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PalindromeNumber" />
+        <item itemvalue="Application.TestThread" />
+        <item itemvalue="Application.temp" />
         <item itemvalue="Application.FibonacciNumbers" />
         <item itemvalue="Application.PrimeNumbers" />
-        <item itemvalue="Application.FlippedStar" />
-        <item itemvalue="Application.PerfectNumber" />
-        <item itemvalue="Application.EBOB__EKOK" />
       </list>
     </recent_temporary>
   </component>
@@ -91,7 +93,7 @@
       <workItem from="1633972382531" duration="6101000" />
       <workItem from="1634486944736" duration="9789000" />
       <workItem from="1635437145995" duration="15521000" />
-      <workItem from="1636039973446" duration="10011000" />
+      <workItem from="1636039973446" duration="12932000" />
     </task>
     <servers />
   </component>

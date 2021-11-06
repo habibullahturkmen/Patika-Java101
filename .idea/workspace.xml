@@ -35,7 +35,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.AdvancedCalculator">
+  <component name="RunManager" selected="Application.PowersRecursive">
     <configuration name="AdvancedCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdvancedCalculator" />
       <module name="Patika-Java101" />
@@ -43,15 +43,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FibonacciNumbers" />
+    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeNumber" />
       <module name="Patika-Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PalindromeNumber" />
+    <configuration name="PowersRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PowersRecursive" />
       <module name="Patika-Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PowersRecursive" />
         <item itemvalue="Application.AdvancedCalculator" />
         <item itemvalue="Application.PalindromeNumber" />
         <item itemvalue="Application.TestThread" />
         <item itemvalue="Application.temp" />
-        <item itemvalue="Application.FibonacciNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +93,7 @@
       <workItem from="1633972382531" duration="6101000" />
       <workItem from="1634486944736" duration="9789000" />
       <workItem from="1635437145995" duration="15521000" />
-      <workItem from="1636039973446" duration="14993000" />
+      <workItem from="1636039973446" duration="16635000" />
     </task>
     <servers />
   </component>

@@ -34,10 +34,18 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
-  <component name="RunManager" selected="Application.PrimeRecursive">
+  <component name="RunManager" selected="Application.DesignMethod">
     <configuration name="AdvancedCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AdvancedCalculator" />
+      <module name="Patika-Java101" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DesignMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesignMethod" />
       <module name="Patika-Java101" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -64,20 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestThread" />
-      <module name="Patika-Java101" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesignMethod" />
         <item itemvalue="Application.PrimeRecursive" />
         <item itemvalue="Application.PowersRecursive" />
         <item itemvalue="Application.AdvancedCalculator" />
         <item itemvalue="Application.PalindromeNumber" />
-        <item itemvalue="Application.TestThread" />
       </list>
     </recent_temporary>
   </component>
@@ -93,11 +94,17 @@
       <workItem from="1633972382531" duration="6101000" />
       <workItem from="1634486944736" duration="9789000" />
       <workItem from="1635437145995" duration="15521000" />
-      <workItem from="1636039973446" duration="17248000" />
+      <workItem from="1636039973446" duration="18128000" />
+      <workItem from="1637745915621" duration="943000" />
+      <workItem from="1637777447331" duration="305000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
